@@ -12,6 +12,7 @@
 🌱 **Areas of Interest**:
 - Software Engineering
 - Cybersecurity
+- Data Analysis
 
 📫 **Connect with me**:
 - [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Samuel%20Emota-blue?logo=linkedin)](https://www.linkedin.com/in/samuel-emota-itops/)
